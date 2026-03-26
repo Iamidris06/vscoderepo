@@ -1,0 +1,501 @@
+user_id,name,age,gender,platform,games,genres,playStyle,playTime
+U0001,Rahul Dubey,27,Male,Mobile,Clash of Clans|eFootball Mobile|Clash Royale,Card Games|Simulation|Strategy,Competitive,Morning
+U0002,Mohit Patel,29,Male,Mobile,WinZO|League of Legends: Wild Rift|Candy Crush Saga|BGMI|Ludo King,Battle Royale|Simulation|Strategy,Competitive,Evening
+U0003,Pranit Trivedi,26,Male,Mobile,Clash of Clans|Dream11|Temple Run 2|Free Fire MAX|Genshin Impact Mobile,RPG|Battle Royale|Action,Casual,Anytime
+U0004,Shreyas Chauhan,28,Male,PC,PUBG Mobile|League of Legends|GTA V|CS2,Battle Royale|Action|Strategy,Casual,Evening
+U0005,Mohit Iyer,29,Male,Mobile,8 Ball Pool|Ludo King|Dream11|MPL Games|Candy Crush Saga,Sports|Casual|Strategy,Both,Night
+U0006,Mayank Khanna,21,Male,Mobile,Candy Crush Saga|NBA 2K Mobile|WinZO|Real Cricket 22|Call of Duty Mobile,Battle Royale|Simulation|Sports,Both,Night
+U0007,Diya Rao,20,Female,Mobile,MPL Games|Pokemon Unite|Stick Cricket Super League|Genshin Impact Mobile,RPG|Action|Sports,Casual,Afternoon
+U0008,Hina Pawar,19,Female,PlayStation,Elden Ring|Dota 2|Fortnite|Free Fire MAX|Free Fire,RPG|Battle Royale|Action,Both,Anytime
+U0009,Mihir Mukherjee,22,Male,PC,Clash Royale|GTA V|Spider-Man PC|BGMI|Free Fire MAX,Card Games|Battle Royale|Action,Both,Anytime
+U0010,Kshitij Naidu,24,Male,PC,Clash of Clans|God of War|Minecraft|WWE 2K24,Simulation|Action|Strategy,Casual,Morning
+U0011,Swetha Chatterjee,27,Female,Mobile,Asphalt 9|Yu-Gi-Oh! Master Duel Mobile,Card Games|Racing|Strategy,Casual,Evening
+U0012,Harshit Sharma,18,Male,Mobile,Free Fire|Brawl Stars|8 Ball Pool|Asphalt 9|Subway Surfers,Battle Royale|Action|Casual,Casual,Night
+U0013,Harsh Krishnan,26,Male,PC,Fortnite|Brawl Stars|Free Fire,Battle Royale|FPS|MOBA,Casual,Night
+U0014,Sonam Mehta,25,Female,PC,Brawl Stars|Clash of Clans|Elden Ring|BGMI|Free Fire MAX,RPG|Battle Royale|Action,Casual,Afternoon
+U0015,Sneha Kapoor,21,Female,Mobile,PUBG Mobile|Call of Duty Mobile,Battle Royale|FPS,Casual,Morning
+U0016,Riya Malhotra,30,Female,Mobile,MPL Games|eFootball Mobile|Mobile Legends|Honkai Star Rail|Subway Surfers,RPG|Simulation|Action,Competitive,Evening
+U0017,Deepak More,30,Male,Mobile,Genshin Impact Mobile|Call of Duty Mobile|Clash of Clans|Stick Cricket Super League|World Cricket Championship 3,RPG|Battle Royale|Simulation,Both,Afternoon
+U0018,Mayank Shetty,19,Male,Mobile,Candy Crush Saga|Genshin Impact Mobile|Subway Surfers,RPG|Simulation|Action,Competitive,Anytime
+U0019,Siddharth Verma,25,Male,Xbox,Apex Legends|Cyberpunk 2077|Free Fire,Battle Royale|FPS|RPG,Casual,Evening
+U0020,Ankit Nayak,28,Male,Mobile,Temple Run 2|Genshin Impact Mobile|Hill Climb Racing|Garena Contra Returns|NBA 2K Mobile,RPG|Simulation|Action,Competitive,Afternoon
+U0021,Sonam Mishra,18,Female,Mobile,Real Cricket 22|Call of Duty Mobile,Sports|FPS|Simulation,Competitive,Night
+U0022,Nikhil Nair,28,Male,PlayStation,Clash Royale|GTA V,Strategy|Adventure|Card Games,Both,Evening
+U0023,Aarav Kumar,22,Male,Mobile,FIFA Mobile|Real Cricket 22|Temple Run 2|MPL Games|Subway Surfers,Simulation|Action|Sports,Casual,Night
+U0024,Poornima Rathore,27,Female,Xbox,Valorant|BGMI,Strategy|Battle Royale|FPS,Both,Anytime
+U0025,Mayank Jain,23,Male,Mobile,Dream11|PUBG Mobile|Subway Surfers,Battle Royale|Strategy|Sports,Casual,Evening
+U0026,Mythili Verma,19,Female,PC,Brawl Stars|Minecraft|Fortnite|FIFA 25,Battle Royale|Simulation|Action,Both,Night
+U0027,Shivam Yadav,22,Male,Mobile,MPL Games|Temple Run 2|Yu-Gi-Oh! Master Duel Mobile|Pokemon Unite,Card Games|Action|Strategy,Both,Night
+U0028,Ishan Pawar,30,Male,PC,Valorant|God of War,Strategy|FPS|Adventure,Casual,Anytime
+U0029,Yuvraj Hegde,26,Male,Mobile,NBA 2K Mobile|BGMI|Brawl Stars|PUBG Mobile|Arena of Valor,Battle Royale|Simulation|Action,Casual,Evening
+U0030,Ritesh Bose,28,Male,Mobile,Free Fire MAX|Dream11|MPL Games|Subway Surfers,Battle Royale|Strategy|Sports,Casual,Night
+U0031,Nithya Sen,20,Female,Xbox,Apex Legends|Cyberpunk 2077|Valorant,RPG|Battle Royale|Action,Competitive,Evening
+U0032,Ojasvi Khanna,25,Female,Mobile,Carrom Pool|Free Fire MAX,Sports|Casual|FPS,Casual,Night
+U0033,Navya Thakur,21,Female,PC,Dota 2|Valorant|Brawl Stars,Strategy|FPS|MOBA,Casual,Evening
+U0034,Shaurya Dubey,20,Male,Mobile,eFootball Mobile|World Cricket Championship 3|Free Fire|Brawl Stars|Temple Run 2,Battle Royale|Simulation|Action,Competitive,Anytime
+U0035,Rajesh More,27,Male,Mobile,Garena Contra Returns|Yu-Gi-Oh! Master Duel Mobile|Brawl Stars|Carrom Pool,Card Games|Action|Strategy,Casual,Morning
+U0036,Priya Mehta,28,Female,Mobile,World Cricket Championship 3|Real Cricket 22,Sports|Simulation,Both,Night
+U0037,Swetha Thakur,21,Female,PC,Spider-Man PC|WWE 2K24|Call of Duty Mobile|Fortnite,Battle Royale|Action|Sports,Competitive,Anytime
+U0038,Rudra Rajput,21,Male,Mobile,Asphalt 9|Hill Climb Racing,Racing|Casual|Action,Competitive,Night
+U0039,Archana Hegde,28,Female,Mobile,Yu-Gi-Oh! Master Duel Mobile|Honkai Star Rail|Ludo King,Card Games|Casual|Strategy,Casual,Night
+U0040,Swati Malhotra,18,Female,PC,League of Legends|Fortnite|Valorant,Battle Royale|Action|Strategy,Casual,Evening
+U0041,Vedant Sawant,20,Male,PlayStation,Spider-Man PC|Free Fire|Dota 2,Battle Royale|Action|Strategy,Competitive,Morning
+U0042,Kush Pawar,20,Male,Mobile,Call of Duty Mobile|NBA 2K Mobile|Subway Surfers|Brawl Stars|Genshin Impact Mobile,RPG|Battle Royale|Simulation,Both,Night
+U0043,Ipsha Hegde,30,Female,Mobile,NBA 2K Mobile|League of Legends: Wild Rift|Ludo King|Honkai Star Rail|Temple Run 2,RPG|Simulation|Action,Casual,Night
+U0044,Padmini Malhotra,22,Female,Mobile,Hill Climb Racing|Subway Surfers,Racing|Casual,Casual,Anytime
+U0045,Gaurav Sen,24,Male,Mobile,MPL Games|PUBG Mobile|Road Fighter,Battle Royale|Sports|Casual,Casual,Evening
+U0046,Dev Sawant,18,Male,Mobile,Carrom Pool|Honkai Star Rail,Sports|Casual|Strategy,Both,Evening
+U0047,Radhika Agarwal,23,Female,Mobile,Garena Contra Returns|Pokemon Unite|Free Fire|Carrom Pool,Battle Royale|Action|Casual,Competitive,Night
+U0048,Atharv Bose,27,Male,Switch,Stick Cricket Super League|CS2,Strategy|Sports|FPS,Competitive,Morning
+U0049,Tanvi Bhat,23,Female,Mobile,Carrom Pool|Real Cricket 22|MPL Games|Genshin Impact Mobile,RPG|Simulation|Action,Casual,Anytime
+U0050,Ipsha Sawant,29,Female,Mobile,Honkai Star Rail|Free Fire,Strategy|Battle Royale|FPS,Competitive,Anytime
+U0051,Arti Rao,21,Female,PC,Valorant|Dota 2,Strategy|FPS|MOBA,Both,Night
+U0052,Akash Gowda,20,Male,PC,BGMI|FIFA 25|Elden Ring,RPG|Battle Royale|Simulation,Competitive,Anytime
+U0053,Kush Mukherjee,22,Male,Xbox,PUBG Mobile|Valorant,Strategy|Battle Royale|FPS,Competitive,Anytime
+U0054,Preethi Mehta,30,Female,Mobile,Clash of Clans|Asphalt 9|Brawl Stars,Action|Strategy|Casual,Both,Night
+U0055,Bhavya Pawar,23,Female,PC,Free Fire MAX|Clash of Clans,Strategy|Battle Royale|FPS,Casual,Evening
+U0056,Neha More,22,Female,Xbox,Fortnite|Cyberpunk 2077|Apex Legends|Free Fire MAX|Clash of Clans,RPG|Battle Royale|Action,Competitive,Anytime
+U0057,Archana More,25,Female,PC,God of War|Dota 2|GTA V|FIFA 25,Simulation|Action|Strategy,Casual,Evening
+U0058,Pari Patel,30,Female,Mobile,Teen Patti Gold|Pokemon Unite|MPL Games|Dream11,Card Games|Strategy|Casual,Casual,Evening
+U0059,Esha Verma,25,Female,Mobile,Clash Royale|Subway Surfers|Road Fighter,Strategy|Casual|Racing,Competitive,Afternoon
+U0060,Savitha Krishnan,21,Female,Mobile,Clash Royale|Hill Climb Racing,Strategy|Racing|Casual,Competitive,Afternoon
+U0061,Madhuri Shukla,22,Female,Mobile,Dream11|Genshin Impact Mobile|Candy Crush Saga|Asphalt 9,RPG|Simulation|Action,Casual,Night
+U0062,Pallavi Roy,22,Female,Mobile,Candy Crush Saga|FIFA Mobile|Hill Climb Racing|Clash of Clans|Rummy Circle,Card Games|Simulation|Strategy,Casual,Afternoon
+U0063,Aryaman Bose,29,Male,Mobile,NBA 2K Mobile|Hill Climb Racing,Racing|Sports|Simulation,Both,Night
+U0064,Neha Verma,22,Female,Mobile,Honkai Star Rail|League of Legends: Wild Rift|World Cricket Championship 3|Teen Patti Gold|Call of Duty Mobile,Card Games|RPG|Battle Royale,Both,Evening
+U0065,Aakash Krishnan,19,Male,Mobile,Arena of Valor|Asphalt 9,Strategy|Racing|MOBA,Both,Afternoon
+U0066,Lalitha Agarwal,18,Female,PC,BGMI|WWE 2K24|PUBG Mobile|Cyberpunk 2077|Clash Royale,Card Games|RPG|Battle Royale,Competitive,Night
+U0067,Mihir Jain,20,Male,Mobile,Ludo King|Subway Surfers,Strategy|Casual|Racing,Competitive,Afternoon
+U0068,Heena Gowda,28,Female,Mobile,Hill Climb Racing|Genshin Impact Mobile|PUBG Mobile,RPG|Battle Royale|Action,Casual,Evening
+U0069,Vinay Naidu,18,Male,Mobile,Candy Crush Saga|Arena of Valor|PUBG Mobile,Battle Royale|Simulation|Strategy,Casual,Evening
+U0070,Mansi Chandra,25,Female,Mobile,Stick Cricket Super League|Candy Crush Saga|Yu-Gi-Oh! Master Duel Mobile|eFootball Mobile,Card Games|Simulation|Strategy,Competitive,Night
+U0071,Geeta Solanki,28,Female,Mobile,Clash Royale|WinZO,Strategy|Casual|Sports,Both,Night
+U0072,Pranit Tiwari,22,Male,Mobile,Honkai Star Rail|FIFA Mobile|League of Legends: Wild Rift,RPG|Simulation|Strategy,Casual,Night
+U0073,Swati Gowda,24,Female,Mobile,Real Cricket 22|Clash of Clans|Ludo King|World Cricket Championship 3,Strategy|Sports|Simulation,Competitive,Evening
+U0074,Jhanvi Gupta,26,Female,Mobile,Temple Run 2|Real Cricket 22|Brawl Stars|Stick Cricket Super League,Simulation|Action|Sports,Both,Morning
+U0075,Varsha Joshi,22,Female,Mobile,Pokemon Unite|League of Legends: Wild Rift|Call of Duty Mobile|MPL Games,Battle Royale|Strategy|Casual,Competitive,Anytime
+U0076,Bindiya Krishnan,18,Female,Mobile,Ludo King|Asphalt 9|NBA 2K Mobile,Simulation|Action|Strategy,Competitive,Morning
+U0077,Atharv Chandra,29,Male,PC,Free Fire|WWE 2K24|Free Fire MAX,Sports|Battle Royale|FPS,Casual,Night
+U0078,Urvashi Kamath,30,Female,Mobile,Rummy Circle|Yu-Gi-Oh! Master Duel Mobile|Mobile Legends|PUBG Mobile|Candy Crush Saga,Card Games|Battle Royale|Simulation,Both,Evening
+U0079,Priya Yadav,23,Female,PC,Fortnite|BGMI|Call of Duty Mobile|Free Fire|Elden Ring,Battle Royale|FPS|RPG,Competitive,Night
+U0080,Siya Shah,30,Female,Switch,Valorant|Carrom Pool|WinZO,Strategy|Casual|FPS,Competitive,Evening
+U0081,Chhavi Nayak,26,Female,Mobile,Pokemon Unite|Free Fire MAX|Mobile Legends,Battle Royale|Action|Casual,Both,Evening
+U0082,Naveen Iyer,30,Male,Mobile,BGMI|Arena of Valor|Road Fighter|PUBG Mobile|Honkai Star Rail,RPG|Battle Royale|Strategy,Both,Evening
+U0083,Thilaga Nair,27,Female,PlayStation,God of War|Clash of Clans|Free Fire|Call of Duty Mobile|CS2,Battle Royale|Action|Strategy,Casual,Night
+U0084,Monika Menon,20,Female,Mobile,Clash of Clans|League of Legends: Wild Rift,Strategy|Casual|MOBA,Competitive,Anytime
+U0085,Omkar Mishra,24,Male,Mobile,Garena Contra Returns|Arena of Valor|Subway Surfers|FIFA Mobile,Simulation|Action|Strategy,Competitive,Night
+U0086,Kunal Nair,28,Male,Mobile,Subway Surfers|Pokemon Unite|Arena of Valor|WinZO|Genshin Impact Mobile,RPG|Action|Strategy,Casual,Evening
+U0087,Girish Bhat,27,Male,PlayStation,GTA V|BGMI|Elden Ring,RPG|Battle Royale|Action,Casual,Anytime
+U0088,Poornima Rajput,27,Female,Mobile,Honkai Star Rail|Clash of Clans|Subway Surfers|Carrom Pool|Dream11,RPG|Strategy|Casual,Casual,Night
+U0089,Lakshya Kulkarni,30,Male,Mobile,Pokemon Unite|Hill Climb Racing,Racing|Casual|MOBA,Both,Night
+U0090,Arti Shah,22,Female,PC,Clash of Clans|Minecraft|CS2,Simulation|Strategy|Casual,Both,Morning
+U0091,Falguni Bose,20,Female,Mobile,Real Cricket 22|Road Fighter|Teen Patti Gold|Rummy Circle,Card Games|Simulation|Sports,Both,Anytime
+U0092,Akshaya Tiwari,25,Female,PC,Free Fire|WWE 2K24|God of War|Minecraft,Battle Royale|Simulation|Action,Both,Afternoon
+U0093,Utkarsh Kulkarni,26,Male,Xbox,GTA V|Spider-Man PC|Valorant|FIFA 25,Simulation|Action|Strategy,Casual,Evening
+U0094,Indira Nayak,18,Female,PC,Minecraft|Brawl Stars|Dota 2|Free Fire,Battle Royale|Simulation|Action,Competitive,Anytime
+U0095,Mythili Agarwal,18,Female,PC,WWE 2K24|Clash of Clans|Cyberpunk 2077|Minecraft|Fortnite,RPG|Battle Royale|Simulation,Both,Evening
+U0096,Sonal Iyer,28,Female,Mobile,Carrom Pool|Genshin Impact Mobile|8 Ball Pool,Sports|Casual|RPG,Both,Night
+U0097,Jyoti Sen,24,Female,PlayStation,Free Fire|Clash Royale,Strategy|Battle Royale|FPS,Both,Evening
+U0098,Sonam Hegde,28,Female,Mobile,8 Ball Pool|Clash of Clans|eFootball Mobile,Sports|Casual|Strategy,Casual,Evening
+U0099,Manish Kamath,21,Male,Mobile,Free Fire|Call of Duty Mobile|World Cricket Championship 3,Sports|Battle Royale|FPS,Both,Night
+U0100,Pranav Desai,22,Male,Mobile,World Cricket Championship 3|Arena of Valor|BGMI,Battle Royale|Simulation|Strategy,Both,Afternoon
+U0101,Harshit Sinha,20,Male,PC,Brawl Stars|Valorant,Strategy|FPS|MOBA,Casual,Night
+U0102,Vihan Solanki,19,Male,Mobile,Call of Duty Mobile|Mobile Legends|Road Fighter|FIFA Mobile,Battle Royale|Simulation|Action,Competitive,Evening
+U0103,Harini Pillai,25,Female,Mobile,Free Fire MAX|FIFA Mobile|Asphalt 9,Battle Royale|Simulation|Action,Competitive,Morning
+U0104,Surya Pawar,19,Female,PC,BGMI|GTA V|God of War|Clash Royale|Fortnite,Card Games|Battle Royale|Action,Casual,Night
+U0105,Jayanti Chauhan,25,Female,Mobile,Clash of Clans|Brawl Stars|NBA 2K Mobile|MPL Games|Garena Contra Returns,Simulation|Action|Strategy,Both,Evening
+U0106,Surya Sawant,23,Female,PC,Cyberpunk 2077|God of War|Brawl Stars|FIFA 25,RPG|Simulation|Action,Both,Night
+U0107,Nisha Menon,29,Female,PC,Cyberpunk 2077|Minecraft,Adventure|Simulation|RPG,Competitive,Night
+U0108,Vihan Bhatt,27,Male,PC,Elden Ring|Brawl Stars|Cyberpunk 2077|CS2|WWE 2K24,RPG|Action|Strategy,Casual,Afternoon
+U0109,Vivek Murthy,23,Male,Mobile,Dream11|NBA 2K Mobile,Strategy|Sports|Simulation,Casual,Evening
+U0110,Hitesh Pawar,29,Male,PlayStation,Clash Royale|Brawl Stars,Strategy|MOBA|Card Games,Casual,Afternoon
+U0111,Pari Shukla,29,Female,Mobile,Stick Cricket Super League|PUBG Mobile|Arena of Valor,Battle Royale|Strategy|Sports,Competitive,Morning
+U0112,Vishal Sawant,30,Male,Mobile,8 Ball Pool|Asphalt 9|Real Cricket 22,Simulation|Action|Sports,Both,Night
+U0113,Vivek Mukherjee,22,Male,PC,Brawl Stars|GTA V,Adventure|MOBA|Action,Competitive,Evening
+U0114,Radhika Tiwari,19,Female,Mobile,Dream11|Garena Contra Returns,Strategy|Sports|FPS,Casual,Night
+U0115,Akshaya Thakur,30,Female,Mobile,Call of Duty Mobile|BGMI|MPL Games|Asphalt 9|Mobile Legends,Battle Royale|Action|Sports,Casual,Evening
+U0116,Kaustav More,19,Male,Mobile,eFootball Mobile|WinZO|Yu-Gi-Oh! Master Duel Mobile|NBA 2K Mobile|Dream11,Card Games|Simulation|Strategy,Casual,Night
+U0117,Sneha Kamath,24,Female,Xbox,PUBG Mobile|Cyberpunk 2077|Spider-Man PC|Clash of Clans,RPG|Battle Royale|Action,Casual,Evening
+U0118,Tanya Kamath,24,Female,PC,GTA V|Cyberpunk 2077|Minecraft|Dota 2,RPG|Simulation|Action,Competitive,Night
+U0119,Vrinda Trivedi,26,Female,Mobile,PUBG Mobile|Yu-Gi-Oh! Master Duel Mobile|Brawl Stars,Card Games|Battle Royale|Action,Competitive,Anytime
+U0120,Navya Ghosh,27,Female,Mobile,Temple Run 2|Rummy Circle|Teen Patti Gold,Card Games|Casual|Action,Casual,Night
+U0121,Kunal Rajan,25,Male,Mobile,Real Cricket 22|Arena of Valor|League of Legends: Wild Rift|PUBG Mobile|Honkai Star Rail,RPG|Battle Royale|Simulation,Competitive,Night
+U0122,Chirag Reddy,28,Male,Mobile,Free Fire MAX|Call of Duty Mobile|8 Ball Pool|Hill Climb Racing|PUBG Mobile,Battle Royale|Sports|Casual,Both,Anytime
+U0123,Archana Kumar,20,Female,Mobile,Real Cricket 22|Honkai Star Rail|Yu-Gi-Oh! Master Duel Mobile,Card Games|RPG|Simulation,Both,Evening
+U0124,Deepa Nair,25,Female,Mobile,Free Fire MAX|Subway Surfers|League of Legends: Wild Rift,Battle Royale|Strategy|Casual,Competitive,Night
+U0125,Ruchika Yadav,26,Female,Mobile,Call of Duty Mobile|World Cricket Championship 3|PUBG Mobile|Clash of Clans,Battle Royale|Simulation|Strategy,Competitive,Evening
+U0126,Tanmay Nair,20,Male,Mobile,Dream11|Asphalt 9|Stick Cricket Super League,Action|Strategy|Sports,Competitive,Anytime
+U0127,Esha Nayak,28,Female,PC,Fortnite|Brawl Stars|Free Fire MAX|GTA V,Battle Royale|Action|Adventure,Competitive,Night
+U0128,Pratik Thakur,21,Male,Mobile,World Cricket Championship 3|Pokemon Unite|Rummy Circle,Card Games|Simulation|Sports,Both,Afternoon
+U0129,Mamta Iyer,27,Female,Mobile,World Cricket Championship 3|Mobile Legends,Sports|Simulation|MOBA,Casual,Afternoon
+U0130,Shivansh Hegde,26,Male,Mobile,Subway Surfers|League of Legends: Wild Rift|Hill Climb Racing|WinZO,Strategy|Casual|Sports,Casual,Anytime
+U0131,Deepika Srivastava,20,Female,PC,BGMI|WWE 2K24|Spider-Man PC|Free Fire MAX|Cyberpunk 2077,RPG|Battle Royale|Action,Both,Night
+U0132,Tushar Joshi,19,Male,PC,Call of Duty Mobile|Minecraft|Free Fire MAX|WWE 2K24,Battle Royale|Simulation|Action,Both,Evening
+U0133,Ritesh Menon,24,Male,Xbox,BGMI|Elden Ring|Valorant,RPG|Battle Royale|Action,Casual,Night
+U0134,Sumit Nair,29,Male,Mobile,Real Cricket 22|Clash of Clans,Strategy|Sports|Simulation,Competitive,Night
+U0135,Karan Yadav,19,Male,PlayStation,Fortnite|Free Fire|BGMI|Clash Royale|Valorant,Card Games|Battle Royale|Action,Casual,Afternoon
+U0136,Shreyas Pawar,21,Male,Mobile,Subway Surfers|Asphalt 9|Brawl Stars|Call of Duty Mobile,Battle Royale|Action|Casual,Competitive,Night
+U0137,Nisha Naidu,27,Female,PC,Clash Royale|Call of Duty Mobile|Valorant|Clash of Clans|Free Fire MAX,Card Games|Battle Royale|Strategy,Casual,Afternoon
+U0138,Priya Dixit,26,Female,Mobile,Teen Patti Gold|Clash Royale|FIFA Mobile|8 Ball Pool|PUBG Mobile,Card Games|Battle Royale|Simulation,Competitive,Night
+U0139,Sumit Gowda,23,Male,Mobile,8 Ball Pool|Temple Run 2|Free Fire|Dream11|PUBG Mobile,Battle Royale|Action|Strategy,Casual,Night
+U0140,Shaurya Bhatt,29,Male,Mobile,eFootball Mobile|World Cricket Championship 3|Teen Patti Gold|Genshin Impact Mobile,Card Games|RPG|Simulation,Competitive,Afternoon
+U0141,Pranav Kamath,22,Male,Mobile,Free Fire MAX|Rummy Circle|Real Cricket 22,Card Games|Battle Royale|Simulation,Competitive,Anytime
+U0142,Sakshi Gupta,28,Female,PC,WWE 2K24|Elden Ring|CS2,RPG|Action|Strategy,Casual,Afternoon
+U0143,Rekha Deshmukh,22,Female,PC,God of War|Apex Legends|Free Fire|Elden Ring|Free Fire MAX,RPG|Battle Royale|Action,Both,Night
+U0144,Ritesh Roy,22,Male,Mobile,Clash of Clans|Clash Royale|Real Cricket 22|Hill Climb Racing,Card Games|Simulation|Strategy,Competitive,Night
+U0145,Rohan Hegde,22,Male,Mobile,Dream11|Garena Contra Returns,Strategy|Sports|FPS,Competitive,Night
+U0146,Varun Deshmukh,18,Male,Mobile,Free Fire|Arena of Valor|League of Legends: Wild Rift,Strategy|Battle Royale|FPS,Casual,Afternoon
+U0147,Shivani Patil,28,Female,Xbox,Clash Royale|Fortnite,Strategy|Battle Royale|Card Games,Competitive,Evening
+U0148,Jhanvi Reddy,19,Female,Mobile,Stick Cricket Super League|Real Cricket 22|Candy Crush Saga|Subway Surfers,Racing|Sports|Simulation,Casual,Afternoon
+U0149,Esha Chandra,21,Female,Mobile,League of Legends: Wild Rift|MPL Games|Hill Climb Racing|Pokemon Unite,Strategy|Casual|Sports,Casual,Anytime
+U0150,Nandini Hegde,26,Female,Switch,League of Legends|Dream11|WWE 2K24|PUBG Mobile,Battle Royale|Action|Strategy,Competitive,Anytime
+U0151,Veer Chatterjee,21,Male,PC,Minecraft|League of Legends|Fortnite,Battle Royale|Simulation|Action,Both,Morning
+U0152,Archana Bose,24,Female,Mobile,PUBG Mobile|Asphalt 9,Racing|Battle Royale|FPS,Both,Night
+U0153,Kamini Jadhav,28,Female,PC,Fortnite|God of War,Battle Royale|Adventure|Action,Casual,Evening
+U0154,Kritika Roy,19,Female,PC,Cyberpunk 2077|Free Fire MAX|CS2,RPG|Battle Royale|Action,Competitive,Evening
+U0155,Omkar Agarwal,22,Male,Mobile,Clash Royale|Temple Run 2|Rummy Circle|NBA 2K Mobile,Card Games|Simulation|Action,Casual,Evening
+U0156,Pratham Banerjee,18,Male,Mobile,Ludo King|World Cricket Championship 3|Free Fire MAX,Battle Royale|Simulation|Strategy,Casual,Anytime
+U0157,Thilaga Desai,22,Female,PC,Clash Royale|Clash of Clans|Valorant|Free Fire|Call of Duty Mobile,Card Games|Battle Royale|Strategy,Competitive,Evening
+U0158,Hitesh Deshmukh,25,Male,Mobile,Call of Duty Mobile|Ludo King,Strategy|Battle Royale|FPS,Competitive,Evening
+U0159,Lalitha Ghosh,26,Female,Mobile,Dream11|Stick Cricket Super League|Mobile Legends|8 Ball Pool,Action|Strategy|Sports,Competitive,Evening
+U0160,Pallavi Tiwari,24,Female,Mobile,Clash of Clans|Call of Duty Mobile|Hill Climb Racing,Battle Royale|Strategy|Casual,Both,Evening
+U0161,Omkar Rathore,25,Male,Mobile,Pokemon Unite|Yu-Gi-Oh! Master Duel Mobile|Genshin Impact Mobile,Card Games|RPG|Action,Both,Evening
+U0162,Raghav Kamath,18,Male,Xbox,PUBG Mobile|Elden Ring|CS2,RPG|Battle Royale|Action,Casual,Night
+U0163,Aarohi Verma,24,Female,PlayStation,Fortnite|FIFA 25|Elden Ring|Spider-Man PC|CS2,RPG|Battle Royale|Simulation,Casual,Night
+U0164,Devika Yadav,24,Female,Mobile,NBA 2K Mobile|Candy Crush Saga|Brawl Stars|Mobile Legends|Clash of Clans,Simulation|Action|Strategy,Casual,Anytime
+U0165,Ipsha Ghosh,26,Female,Mobile,Yu-Gi-Oh! Master Duel Mobile|Free Fire MAX|Mobile Legends|World Cricket Championship 3|Honkai Star Rail,Card Games|RPG|Battle Royale,Competitive,Night
+U0166,Rishi Kulkarni,25,Male,Switch,CS2|World Cricket Championship 3|Yu-Gi-Oh! Master Duel Mobile|eFootball Mobile,Card Games|Simulation|Strategy,Competitive,Evening
+U0167,Nitin Bhatt,25,Male,PC,PUBG Mobile|WWE 2K24|Clash of Clans|Valorant|Clash Royale,Card Games|Battle Royale|Action,Casual,Night
+U0168,Shivansh Joshi,28,Male,Mobile,FIFA Mobile|Carrom Pool|Arena of Valor,Simulation|Strategy|Sports,Casual,Night
+U0169,Prateek Singh,29,Male,Mobile,Arena of Valor|Road Fighter|MPL Games|Yu-Gi-Oh! Master Duel Mobile|Honkai Star Rail,Card Games|RPG|Strategy,Competitive,Night
+U0170,Sarthak Solanki,26,Male,Switch,FIFA Mobile|Carrom Pool|Real Cricket 22|Teen Patti Gold|Genshin Impact Mobile,Card Games|RPG|Simulation,Casual,Evening
+U0171,Mythili Murthy,21,Female,Mobile,Candy Crush Saga|NBA 2K Mobile|Asphalt 9,Simulation|Action|Sports,Both,Anytime
+U0172,Chhavi Desai,22,Female,PC,God of War|Free Fire|Elden Ring|Call of Duty Mobile|FIFA 25,RPG|Battle Royale|Simulation,Casual,Night
+U0173,Preethi Shukla,23,Female,Xbox,WWE 2K24|CS2|GTA V,Action|Strategy|Sports,Both,Night
+U0174,Bhavya Tiwari,21,Female,Xbox,Fortnite|Minecraft|Clash Royale|PUBG Mobile,Card Games|Battle Royale|Simulation,Casual,Night
+U0175,Ishan Kapoor,26,Male,Mobile,World Cricket Championship 3|Honkai Star Rail|Clash of Clans|Mobile Legends|BGMI,RPG|Battle Royale|Simulation,Both,Afternoon
+U0176,Chandni Mehta,30,Female,PC,God of War|WWE 2K24|Clash of Clans|CS2,Action|Strategy|Sports,Casual,Night
+U0177,Kunal Sawant,20,Male,PlayStation,CS2|Spider-Man PC|Free Fire,Battle Royale|Action|Strategy,Both,Anytime
+U0178,Pooja Verma,25,Female,Mobile,World Cricket Championship 3|Hill Climb Racing,Racing|Sports|Simulation,Both,Night
+U0179,Diya Shah,29,Female,PC,Apex Legends|BGMI|Clash of Clans|FIFA 25,Battle Royale|Simulation|Strategy,Casual,Night
+U0180,Gayathri Shah,28,Female,Mobile,Garena Contra Returns|Yu-Gi-Oh! Master Duel Mobile|Real Cricket 22|Clash Royale|Stick Cricket Super League,Card Games|Simulation|Action,Casual,Anytime
+U0181,Siya Khanna,27,Female,Mobile,Subway Surfers|League of Legends: Wild Rift|Candy Crush Saga|World Cricket Championship 3|Asphalt 9,Simulation|Action|Strategy,Competitive,Morning
+U0182,Amrita Malhotra,20,Female,Mobile,Genshin Impact Mobile|Asphalt 9,Racing|RPG|Action,Competitive,Night
+U0183,Amrita Chandra,25,Female,PC,Elden Ring|Clash Royale|Dota 2|Fortnite,Card Games|RPG|Battle Royale,Casual,Night
+U0184,Radhika Gowda,30,Female,PC,Dota 2|Brawl Stars|Clash Royale,Strategy|MOBA|Card Games,Casual,Evening
+U0185,Riya Naidu,23,Female,Mobile,eFootball Mobile|Arena of Valor|Ludo King,Simulation|Strategy|Sports,Both,Evening
+U0186,Veer Krishnan,25,Male,Mobile,Call of Duty Mobile|Genshin Impact Mobile|Mobile Legends|Yu-Gi-Oh! Master Duel Mobile|Road Fighter,Card Games|RPG|Battle Royale,Competitive,Night
+U0187,Ekta Singh,18,Female,Mobile,MPL Games|PUBG Mobile,Sports|Casual|FPS,Competitive,Night
+U0188,Pranav Gowda,25,Male,Mobile,Teen Patti Gold|Mobile Legends|Road Fighter|8 Ball Pool|Carrom Pool,Card Games|Action|Casual,Both,Anytime
+U0189,Komal Das,26,Female,PC,Minecraft|Apex Legends|Call of Duty Mobile|Spider-Man PC,Battle Royale|Simulation|Action,Casual,Anytime
+U0190,Samarth Singh,21,Male,Switch,Dota 2|God of War|eFootball Mobile|Garena Contra Returns|Carrom Pool,Simulation|Action|Strategy,Casual,Evening
+U0191,Deepika Naidu,27,Female,Mobile,Free Fire|Subway Surfers|MPL Games|PUBG Mobile|Clash of Clans,Battle Royale|Strategy|Casual,Casual,Night
+U0192,Lokesh Kumar,20,Male,Mobile,eFootball Mobile|MPL Games|Call of Duty Mobile,Battle Royale|Simulation|Sports,Competitive,Evening
+U0193,Hema Solanki,22,Female,Mobile,FIFA Mobile|WinZO|Road Fighter,Racing|Sports|Simulation,Casual,Night
+U0194,Mihir Pawar,30,Male,Mobile,Dream11|Carrom Pool,Strategy|Sports|Casual,Competitive,Night
+U0195,Aditi Rajput,18,Female,Mobile,Subway Surfers|WinZO|Asphalt 9|Arena of Valor|Genshin Impact Mobile,RPG|Action|Strategy,Competitive,Anytime
+U0196,Sumit Khanna,29,Male,Mobile,Clash Royale|League of Legends: Wild Rift|8 Ball Pool|eFootball Mobile,Card Games|Simulation|Strategy,Both,Morning
+U0197,Yamini Kumar,21,Female,PlayStation,PUBG Mobile|Brawl Stars|Call of Duty Mobile,Battle Royale|FPS|MOBA,Competitive,Anytime
+U0198,Trisha Verma,29,Female,Mobile,Brawl Stars|Honkai Star Rail|Subway Surfers,RPG|Action|Strategy,Competitive,Afternoon
+U0199,Shreyas Solanki,22,Male,PC,BGMI|Call of Duty Mobile|Clash of Clans|Elden Ring|WWE 2K24,RPG|Battle Royale|Action,Casual,Anytime
+U0200,Ankita Gowda,18,Female,PC,League of Legends|Elden Ring|God of War|Cyberpunk 2077,RPG|Action|Strategy,Competitive,Afternoon
+U0201,Vikram Pandey,24,Male,Mobile,Hill Climb Racing|Arena of Valor|Rummy Circle|World Cricket Championship 3|WinZO,Card Games|Simulation|Strategy,Competitive,Afternoon
+U0202,Sakshi Krishnan,25,Female,Xbox,BGMI|Apex Legends|Elden Ring|Fortnite|Call of Duty Mobile,Battle Royale|FPS|RPG,Casual,Anytime
+U0203,Shubham Gupta,30,Male,PC,Brawl Stars|CS2,Strategy|FPS|MOBA,Casual,Afternoon
+U0204,Pranav Sen,18,Male,Mobile,8 Ball Pool|Call of Duty Mobile|Honkai Star Rail|Pokemon Unite|Free Fire,RPG|Battle Royale|Strategy,Competitive,Evening
+U0205,Shubham Dubey,19,Male,Mobile,Free Fire|Yu-Gi-Oh! Master Duel Mobile|Garena Contra Returns|Teen Patti Gold,Card Games|Battle Royale|Action,Both,Night
+U0206,Prateek Sinha,27,Male,PC,Spider-Man PC|GTA V|Elden Ring|BGMI,RPG|Battle Royale|Action,Casual,Night
+U0207,Zara Nair,24,Female,PC,GTA V|Spider-Man PC,Adventure|Action,Casual,Evening
+U0208,Devansh Banerjee,21,Male,Mobile,World Cricket Championship 3|Clash of Clans|FIFA Mobile|Free Fire MAX|WinZO,Battle Royale|Simulation|Strategy,Both,Night
+U0209,Diya Kumar,20,Female,Xbox,Call of Duty Mobile|PUBG Mobile|Brawl Stars|CS2,Battle Royale|Action|Strategy,Both,Evening
+U0210,Vihan Ghosh,27,Male,PC,GTA V|WWE 2K24|Apex Legends|PUBG Mobile|Dota 2,Battle Royale|Action|Strategy,Both,Evening
+U0211,Chahat Das,18,Female,PC,Free Fire MAX|Elden Ring,Battle Royale|FPS|RPG,Casual,Afternoon
+U0212,Saurabh Kulkarni,25,Male,Xbox,Valorant|Clash of Clans|FIFA 25|BGMI,Battle Royale|Simulation|Strategy,Casual,Night
+U0213,Rekha Roy,20,Female,PC,GTA V|Clash Royale|WWE 2K24|Dota 2|FIFA 25,Card Games|Simulation|Action,Casual,Night
+U0214,Yuvraj Patil,22,Male,Mobile,Clash Royale|BGMI,Strategy|Battle Royale|FPS,Competitive,Night
+U0215,Akash Menon,19,Male,Mobile,NBA 2K Mobile|Yu-Gi-Oh! Master Duel Mobile|Road Fighter|Clash of Clans|Free Fire,Card Games|Battle Royale|Simulation,Casual,Morning
+U0216,Chahat Verma,28,Female,Mobile,Clash Royale|NBA 2K Mobile|Subway Surfers|FIFA Mobile|Ludo King,Card Games|Simulation|Strategy,Casual,Afternoon
+U0217,Diya Rajan,22,Female,Mobile,Garena Contra Returns|Candy Crush Saga|Road Fighter,Simulation|Action|Casual,Competitive,Morning
+U0218,Urvashi Rajan,22,Female,Mobile,Genshin Impact Mobile|Clash of Clans|Mobile Legends,RPG|Action|Strategy,Casual,Evening
+U0219,Ojasvi Bhatt,23,Female,Mobile,Mobile Legends|Asphalt 9|Real Cricket 22|Rummy Circle|Honkai Star Rail,Card Games|RPG|Simulation,Casual,Evening
+U0220,Khushi Krishnan,30,Female,Xbox,God of War|Spider-Man PC|FIFA 25,Sports|Simulation|Adventure,Casual,Afternoon
+U0221,Vihan Roy,25,Male,PC,BGMI|League of Legends,Strategy|Battle Royale|FPS,Both,Night
+U0222,Pavan Jadhav,22,Male,PC,Clash of Clans|WWE 2K24|Dota 2,Action|Strategy|Casual,Competitive,Night
+U0223,Riya Shetty,24,Female,Switch,CS2|Stick Cricket Super League|eFootball Mobile|Yu-Gi-Oh! Master Duel Mobile|FIFA 25,Card Games|Simulation|Strategy,Competitive,Night
+U0224,Bindiya Nair,27,Female,Mobile,Dream11|Ludo King|Free Fire MAX,Battle Royale|Strategy|Sports,Both,Night
+U0225,Ipsha Bhatt,29,Female,Xbox,Minecraft|Valorant|FIFA 25|Dota 2|Free Fire MAX,Battle Royale|Simulation|Strategy,Competitive,Night
+U0226,Kaustubh Srivastava,19,Male,Mobile,Dream11|Free Fire|Honkai Star Rail,RPG|Battle Royale|Strategy,Casual,Anytime
+U0227,Suresh Ghosh,23,Male,Mobile,Genshin Impact Mobile|MPL Games|FIFA Mobile|Honkai Star Rail,RPG|Simulation|Action,Competitive,Evening
+U0228,Lavanya Rao,28,Female,Mobile,Free Fire|World Cricket Championship 3,Sports|Battle Royale|FPS,Casual,Night
+U0229,Rajat Chatterjee,30,Male,Mobile,NBA 2K Mobile|Garena Contra Returns|Genshin Impact Mobile|WinZO,RPG|Simulation|Action,Competitive,Afternoon
+U0230,Preethi Patel,24,Female,PC,BGMI|PUBG Mobile|Cyberpunk 2077,Battle Royale|FPS|RPG,Casual,Afternoon
+U0231,Ipsha Rao,25,Female,Mobile,8 Ball Pool|Real Cricket 22|Rummy Circle,Sports|Casual|Simulation,Casual,Night
+U0232,Akshaya Rathore,27,Female,Mobile,Brawl Stars|Dream11|Genshin Impact Mobile|Teen Patti Gold|Asphalt 9,Card Games|RPG|Action,Competitive,Night
+U0233,Pallavi Malhotra,24,Female,Mobile,8 Ball Pool|Arena of Valor|Yu-Gi-Oh! Master Duel Mobile,Card Games|Strategy|Sports,Competitive,Afternoon
+U0234,Sunita Roy,22,Female,Mobile,NBA 2K Mobile|Ludo King|Pokemon Unite,Simulation|Strategy|Sports,Casual,Evening
+U0235,Nithya Joshi,21,Female,PlayStation,Free Fire|Fortnite,Battle Royale|FPS|Action,Both,Anytime
+U0236,Varsha Krishnan,22,Female,Mobile,Pokemon Unite|Ludo King|Clash Royale|Free Fire|WinZO,Card Games|Battle Royale|Strategy,Casual,Afternoon
+U0237,Gayathri Rajan,30,Female,Mobile,Brawl Stars|Candy Crush Saga,Casual|Simulation|MOBA,Competitive,Anytime
+U0238,Pranit Hegde,22,Male,Mobile,Clash of Clans|Subway Surfers|Asphalt 9|Free Fire MAX|League of Legends: Wild Rift,Battle Royale|Action|Strategy,Casual,Night
+U0239,Ritika Shukla,27,Female,PlayStation,Apex Legends|Clash Royale|Fortnite|League of Legends|CS2,Card Games|Battle Royale|Action,Casual,Evening
+U0240,Omkar Chauhan,18,Male,Mobile,Yu-Gi-Oh! Master Duel Mobile|Clash of Clans|Mobile Legends|Road Fighter,Card Games|Action|Strategy,Both,Anytime
+U0241,Devansh Bose,27,Male,Mobile,Subway Surfers|Stick Cricket Super League|Pokemon Unite|Arena of Valor,Strategy|Casual|Sports,Competitive,Night
+U0242,Heena Reddy,29,Female,PC,Spider-Man PC|Free Fire MAX,Battle Royale|FPS|Adventure,Casual,Anytime
+U0243,Poornima Krishnan,28,Female,Mobile,Clash Royale|Genshin Impact Mobile,Strategy|RPG|Card Games,Competitive,Evening
+U0244,Pavan Kulkarni,23,Male,Mobile,MPL Games|Pokemon Unite|Candy Crush Saga|Real Cricket 22|Hill Climb Racing,Simulation|Sports|Casual,Competitive,Afternoon
+U0245,Mamta Trivedi,28,Female,PlayStation,CS2|Minecraft,Strategy|FPS|Simulation,Both,Evening
+U0246,Rishi Hegde,19,Male,Mobile,Rummy Circle|Mobile Legends|Asphalt 9|Ludo King|Candy Crush Saga,Card Games|Simulation|Action,Competitive,Evening
+U0247,Vaishnavi Banerjee,18,Female,Mobile,WinZO|Garena Contra Returns|Clash Royale|Clash of Clans,Card Games|Action|Strategy,Casual,Morning
+U0248,Rajat Hegde,19,Male,Mobile,Brawl Stars|Garena Contra Returns|Mobile Legends|Honkai Star Rail,RPG|Action|Strategy,Casual,Morning
+U0249,Rajesh Rathore,26,Male,Mobile,Mobile Legends|Carrom Pool|Arena of Valor|PUBG Mobile,Battle Royale|Action|Strategy,Competitive,Night
+U0250,Naveen Shukla,25,Male,PC,Cyberpunk 2077|Clash Royale|Brawl Stars,Card Games|RPG|Action,Both,Morning
+U0251,Gaurav Chandra,22,Male,Mobile,Dream11|Garena Contra Returns|Real Cricket 22|Mobile Legends|Subway Surfers,Simulation|Action|Strategy,Competitive,Afternoon
+U0252,Lata Patel,22,Female,PlayStation,League of Legends|Free Fire MAX|Clash Royale|Spider-Man PC,Card Games|Battle Royale|Action,Competitive,Night
+U0253,Kaustav Patil,20,Male,Mobile,PUBG Mobile|FIFA Mobile|BGMI|8 Ball Pool|Real Cricket 22,Battle Royale|Simulation|Sports,Casual,Night
+U0254,Shivani Chatterjee,19,Female,PC,Valorant|PUBG Mobile,Strategy|Battle Royale|FPS,Casual,Afternoon
+U0255,Pratham Yadav,26,Male,PC,Cyberpunk 2077|Spider-Man PC|GTA V|Clash of Clans|Call of Duty Mobile,RPG|Battle Royale|Action,Competitive,Evening
+U0256,Komal Desai,27,Female,Switch,eFootball Mobile|Real Cricket 22|Stick Cricket Super League,Sports|Simulation|Casual,Competitive,Night
+U0257,Dhruv More,24,Male,PC,CS2|Dota 2|GTA V,Action|Strategy|Adventure,Casual,Night
+U0258,Dhruv Chatterjee,23,Male,Mobile,BGMI|Ludo King|Pokemon Unite,Battle Royale|Strategy|Casual,Competitive,Night
+U0259,Tanya Srivastava,22,Female,Mobile,Brawl Stars|Free Fire|World Cricket Championship 3|Garena Contra Returns,Battle Royale|Simulation|Action,Competitive,Evening
+U0260,Kaustav Kamath,23,Male,Mobile,Pokemon Unite|Ludo King,Strategy|Casual|MOBA,Casual,Night
+U0261,Mohit Sharma,25,Male,Mobile,Subway Surfers|Free Fire MAX,Racing|Casual|FPS,Casual,Anytime
+U0262,Karan Sawant,19,Male,Mobile,Road Fighter|Real Cricket 22|Candy Crush Saga,Sports|Racing|Simulation,Competitive,Afternoon
+U0263,Kunal Agarwal,25,Male,PC,Spider-Man PC|GTA V,Adventure|Action,Both,Night
+U0264,Siya Menon,22,Female,Mobile,8 Ball Pool|Rummy Circle,Sports|Casual|Card Games,Competitive,Evening
+U0265,Atharv Srivastava,24,Male,Mobile,Rummy Circle|eFootball Mobile|Subway Surfers|Arena of Valor|BGMI,Card Games|Battle Royale|Simulation,Casual,Night
+U0266,Tanmay Sharma,24,Male,PC,WWE 2K24|Minecraft|League of Legends|Free Fire MAX|Dota 2,Battle Royale|Simulation|Action,Competitive,Morning
+U0267,Veer Dubey,25,Male,Mobile,FIFA Mobile|Road Fighter|8 Ball Pool,Racing|Sports|Simulation,Both,Morning
+U0268,Pratham Das,20,Male,PC,GTA V|PUBG Mobile|CS2|Cyberpunk 2077|Brawl Stars,RPG|Battle Royale|Action,Casual,Evening
+U0269,Ojasvi Kulkarni,19,Female,PC,God of War|BGMI|FIFA 25|Dota 2,Battle Royale|Simulation|Action,Both,Afternoon
+U0270,Vivek Pillai,30,Male,Mobile,Real Cricket 22|Road Fighter|Brawl Stars|eFootball Mobile|Dream11,Simulation|Action|Strategy,Casual,Evening
+U0271,Pallavi Menon,19,Female,Mobile,Free Fire MAX|MPL Games|Real Cricket 22|Arena of Valor,Battle Royale|Simulation|Strategy,Competitive,Anytime
+U0272,Harini Joshi,26,Female,PC,Apex Legends|Valorant|Spider-Man PC|BGMI,Battle Royale|Action|Strategy,Competitive,Afternoon
+U0273,Neha Das,21,Female,Mobile,WinZO|Mobile Legends,Sports|Casual|MOBA,Both,Evening
+U0274,Aarav Pandey,21,Male,PlayStation,Valorant|GTA V,Strategy|FPS|Adventure,Both,Evening
+U0275,Aman Bhatt,18,Male,Mobile,Call of Duty Mobile|Ludo King|Garena Contra Returns|Stick Cricket Super League|Pokemon Unite,Battle Royale|Action|Strategy,Casual,Evening
+U0276,Sonam Roy,24,Female,Mobile,Arena of Valor|Free Fire MAX|Subway Surfers|Hill Climb Racing|Pokemon Unite,Battle Royale|Strategy|Casual,Both,Evening
+U0277,Ayush Patil,30,Male,Mobile,FIFA Mobile|Subway Surfers|eFootball Mobile,Racing|Sports|Simulation,Casual,Evening
+U0278,Chandni Krishnan,23,Female,Mobile,Carrom Pool|Candy Crush Saga|Teen Patti Gold|Free Fire,Card Games|Battle Royale|Simulation,Competitive,Morning
+U0279,Aisha Gowda,28,Female,Mobile,Ludo King|Clash of Clans|Subway Surfers,Strategy|Casual|Racing,Casual,Night
+U0280,Pranit Agarwal,29,Male,Mobile,Dream11|Teen Patti Gold|Subway Surfers|Real Cricket 22|Free Fire,Card Games|Battle Royale|Simulation,Competitive,Anytime
+U0281,Soham Shah,19,Male,PC,Call of Duty Mobile|WWE 2K24|Apex Legends|Free Fire|CS2,Battle Royale|Action|Strategy,Casual,Night
+U0282,Shubham Murthy,30,Male,Mobile,Mobile Legends|World Cricket Championship 3|Teen Patti Gold,Card Games|Simulation|Action,Both,Evening
+U0283,Sachin Ghosh,27,Male,PC,GTA V|Elden Ring|Brawl Stars|Spider-Man PC,Adventure|MOBA|RPG,Casual,Evening
+U0284,Rishi More,30,Male,PC,Clash of Clans|God of War|Apex Legends|Call of Duty Mobile|Clash Royale,Card Games|Battle Royale|Action,Casual,Night
+U0285,Vishal Thakur,24,Male,PC,Fortnite|Apex Legends|Valorant|PUBG Mobile,Strategy|Battle Royale|FPS,Both,Night
+U0286,Tarun Rathore,25,Male,Xbox,Clash of Clans|PUBG Mobile|Minecraft,Battle Royale|Simulation|Strategy,Casual,Night
+U0287,Rishabh Rathore,18,Male,Mobile,World Cricket Championship 3|League of Legends: Wild Rift,Strategy|Sports|Simulation,Casual,Afternoon
+U0288,Rishabh Sinha,25,Male,PC,CS2|Spider-Man PC,Strategy|FPS|Adventure,Competitive,Anytime
+U0289,Payal Nayak,19,Female,Mobile,Clash of Clans|Honkai Star Rail|WinZO|Ludo King|League of Legends: Wild Rift,RPG|Strategy|Casual,Both,Morning
+U0290,Lakshay Pandey,24,Male,Xbox,God of War|Apex Legends,Battle Royale|FPS|Adventure,Casual,Morning
+U0291,Saurabh Murthy,19,Male,PC,Clash of Clans|Apex Legends|Clash Royale|Cyberpunk 2077|CS2,Card Games|RPG|Battle Royale,Casual,Anytime
+U0292,Bindiya Pandey,27,Female,PC,Dota 2|Minecraft|CS2|Spider-Man PC,Simulation|Action|Strategy,Competitive,Evening
+U0293,Pratik Sharma,21,Male,Mobile,Honkai Star Rail|Rummy Circle|Clash of Clans|Free Fire,Card Games|RPG|Battle Royale,Casual,Evening
+U0294,Manas Naidu,24,Male,Mobile,Honkai Star Rail|Pokemon Unite|Temple Run 2|Clash Royale|eFootball Mobile,Card Games|RPG|Simulation,Casual,Anytime
+U0295,Kavya Shetty,20,Female,Mobile,Genshin Impact Mobile|Temple Run 2|WinZO|Candy Crush Saga|Call of Duty Mobile,RPG|Battle Royale|Simulation,Both,Night
+U0296,Naman Shukla,26,Male,PC,PUBG Mobile|Dota 2|Call of Duty Mobile|CS2|Spider-Man PC,Battle Royale|Action|Strategy,Competitive,Night
+U0297,Hema Malhotra,26,Female,Mobile,Stick Cricket Super League|Free Fire MAX,Sports|FPS|Battle Royale,Competitive,Night
+U0298,Manish Shetty,18,Male,Mobile,MPL Games|Rummy Circle|Mobile Legends,Card Games|Action|Sports,Competitive,Anytime
+U0299,Megha Ghosh,24,Female,PC,God of War|GTA V|Spider-Man PC|Call of Duty Mobile,Battle Royale|FPS|Adventure,Competitive,Anytime
+U0300,Ananya Sawant,26,Female,Mobile,Arena of Valor|Clash of Clans|Hill Climb Racing,Strategy|Casual|Racing,Both,Anytime
+U0301,Chahat Krishnan,27,Female,Mobile,Free Fire MAX|Teen Patti Gold|Candy Crush Saga|Stick Cricket Super League|Arena of Valor,Card Games|Battle Royale|Simulation,Competitive,Night
+U0302,Raghav Bhatt,23,Male,PC,Free Fire|FIFA 25,Sports|Battle Royale|FPS,Casual,Night
+U0303,Vrinda Dubey,22,Female,PlayStation,Dota 2|Fortnite,Strategy|Battle Royale|MOBA,Both,Evening
+U0304,Diya Sawant,21,Female,Mobile,Rummy Circle|League of Legends: Wild Rift,Card Games|Casual|Strategy,Both,Evening
+U0305,Jhanvi Srivastava,24,Female,PC,GTA V|WWE 2K24|Free Fire MAX,Battle Royale|Action|Sports,Casual,Anytime
+U0306,Kunal Shah,18,Male,PlayStation,CS2|Dota 2|BGMI,Strategy|Battle Royale|FPS,Both,Night
+U0307,Ruchika Bhat,23,Female,Mobile,Free Fire|Subway Surfers,Racing|Battle Royale|FPS,Competitive,Evening
+U0308,Jyoti Shukla,18,Female,Mobile,Clash Royale|Hill Climb Racing|Free Fire|Carrom Pool,Card Games|Battle Royale|Strategy,Casual,Night
+U0309,Sanket Agarwal,30,Male,PC,Clash of Clans|Cyberpunk 2077|Free Fire MAX|Valorant,RPG|Battle Royale|Action,Both,Night
+U0310,Kritika Chatterjee,27,Female,Mobile,WinZO|Temple Run 2,Sports|Casual|Action,Both,Evening
+U0311,Sunita Nayak,26,Female,PlayStation,FIFA 25|League of Legends|BGMI|WWE 2K24|Brawl Stars,Battle Royale|Simulation|Action,Both,Evening
+U0312,Arjun Srivastava,23,Male,Mobile,Asphalt 9|Clash of Clans|Honkai Star Rail|PUBG Mobile,RPG|Battle Royale|Action,Both,Night
+U0313,Muskan Rajput,28,Female,Mobile,Call of Duty Mobile|Stick Cricket Super League|Real Cricket 22,Battle Royale|Simulation|Sports,Casual,Morning
+U0314,Khushi Pandey,29,Female,PlayStation,Spider-Man PC|CS2|PUBG Mobile|League of Legends|God of War,Battle Royale|Action|Strategy,Competitive,Night
+U0315,Vaishnavi Dixit,19,Female,Mobile,NBA 2K Mobile|Teen Patti Gold|Hill Climb Racing,Card Games|Simulation|Sports,Competitive,Night
+U0316,Kshitij Bhatt,24,Male,PC,Elden Ring|Dota 2|WWE 2K24,RPG|Action|Strategy,Both,Evening
+U0317,Indira Chauhan,28,Female,Mobile,Honkai Star Rail|Call of Duty Mobile,Strategy|Battle Royale|FPS,Competitive,Anytime
+U0318,Manas Shah,20,Male,Mobile,FIFA Mobile|Asphalt 9|Road Fighter|Call of Duty Mobile|Arena of Valor,Battle Royale|Simulation|Action,Both,Evening
+U0319,Ishita Rathore,28,Female,PlayStation,GTA V|Free Fire|God of War,Battle Royale|FPS|Adventure,Both,Evening
+U0320,Arjun Shetty,20,Male,Mobile,Ludo King|Pokemon Unite|Clash Royale,Strategy|Casual|MOBA,Competitive,Night
+U0321,Sunita Murthy,29,Female,Mobile,eFootball Mobile|Rummy Circle,Card Games|Sports|Simulation,Casual,Morning
+U0322,Ipsha Shah,29,Female,Mobile,Subway Surfers|WinZO,Racing|Casual|Sports,Both,Evening
+U0323,Sumit Thakur,25,Male,Mobile,Asphalt 9|Hill Climb Racing,Racing|Casual|Action,Competitive,Night
+U0324,Rekha Das,21,Female,Mobile,Dream11|Rummy Circle|Ludo King|Stick Cricket Super League|Free Fire,Card Games|Battle Royale|Strategy,Casual,Anytime
+U0325,Ansh Singh,24,Male,Mobile,Brawl Stars|8 Ball Pool|Free Fire MAX,Battle Royale|Action|Sports,Both,Evening
+U0326,Reyansh Joshi,24,Male,PC,CS2|Minecraft,Strategy|FPS|Simulation,Competitive,Afternoon
+U0327,Madhuri Sen,28,Female,Mobile,Asphalt 9|Road Fighter,Racing|Casual|Action,Casual,Night
+U0328,Piyush Pillai,30,Male,Mobile,Hill Climb Racing|Brawl Stars,Racing|MOBA|Casual,Casual,Afternoon
+U0329,Kush Pandey,20,Male,PC,Elden Ring|Cyberpunk 2077|WWE 2K24,Sports|RPG|Action,Casual,Evening
+U0330,Rohan Murthy,19,Male,Mobile,BGMI|Clash Royale,Strategy|Battle Royale|FPS,Both,Night
+U0331,Aman Reddy,21,Male,PC,FIFA 25|Clash of Clans,Strategy|Sports|Simulation,Competitive,Anytime
+U0332,Archana Joshi,30,Female,Mobile,Free Fire MAX|Hill Climb Racing|8 Ball Pool,Battle Royale|Casual|Sports,Competitive,Evening
+U0333,Deepak Kumar,25,Male,Mobile,Ludo King|World Cricket Championship 3|Dream11,Strategy|Casual|Sports,Both,Evening
+U0334,Nitin Trivedi,30,Male,Mobile,Stick Cricket Super League|Genshin Impact Mobile|Candy Crush Saga|Carrom Pool|Honkai Star Rail,RPG|Simulation|Action,Competitive,Anytime
+U0335,Suresh Bose,24,Male,PC,Apex Legends|Minecraft,Battle Royale|FPS|Simulation,Both,Evening
+U0336,Kavya Nayak,25,Female,PC,Brawl Stars|Fortnite,Battle Royale|MOBA|Action,Both,Afternoon
+U0337,Mansi Kumar,26,Female,Mobile,BGMI|FIFA Mobile|WinZO|World Cricket Championship 3,Battle Royale|Simulation|Sports,Competitive,Night
+U0338,Ritesh Khanna,26,Male,Mobile,Arena of Valor|NBA 2K Mobile|Call of Duty Mobile|BGMI|Ludo King,Battle Royale|Simulation|Strategy,Both,Anytime
+U0339,Varun Krishnan,26,Male,Mobile,Candy Crush Saga|Call of Duty Mobile|Yu-Gi-Oh! Master Duel Mobile|WinZO,Card Games|Battle Royale|Simulation,Competitive,Evening
+U0340,Harsh Kamath,25,Male,Mobile,Clash Royale|Pokemon Unite|League of Legends: Wild Rift|Real Cricket 22|Brawl Stars,Card Games|Simulation|Action,Competitive,Morning
+U0341,Varsha Gupta,26,Female,Mobile,Clash Royale|Asphalt 9,Strategy|Racing|Card Games,Competitive,Night
+U0342,Pari Saxena,30,Female,PC,BGMI|God of War|Call of Duty Mobile,Battle Royale|FPS|Adventure,Competitive,Evening
+U0343,Deepa Shetty,28,Female,Mobile,BGMI|World Cricket Championship 3|Dream11,Battle Royale|Simulation|Strategy,Both,Evening
+U0344,Bindiya Pillai,19,Female,Mobile,Pokemon Unite|Mobile Legends|Road Fighter,Racing|Casual|MOBA,Casual,Afternoon
+U0345,Raghav Jain,18,Male,Mobile,World Cricket Championship 3|Clash of Clans|Road Fighter,Simulation|Strategy|Sports,Both,Night
+U0346,Shaurya Shetty,29,Male,Mobile,Pokemon Unite|BGMI|FIFA Mobile,Battle Royale|Simulation|Sports,Casual,Anytime
+U0347,Harini Chatterjee,28,Female,PC,Fortnite|Minecraft|Spider-Man PC,Battle Royale|Adventure|Simulation,Competitive,Anytime
+U0348,Radhika Khanna,27,Female,Mobile,Hill Climb Racing|League of Legends: Wild Rift|Mobile Legends|Road Fighter,Action|Strategy|Casual,Competitive,Night
+U0349,Bindiya Rathore,28,Female,PC,League of Legends|Clash Royale|WWE 2K24,Card Games|Action|Strategy,Casual,Night
+U0350,Pratham Solanki,29,Male,PC,Call of Duty Mobile|Free Fire|PUBG Mobile|Brawl Stars,Battle Royale|FPS|MOBA,Competitive,Night
+U0351,Sunita Verma,18,Female,Mobile,Carrom Pool|Arena of Valor,Sports|Casual|Strategy,Competitive,Afternoon
+U0352,Arnav Sinha,30,Male,Mobile,Hill Climb Racing|MPL Games,Sports|Racing|Casual,Competitive,Evening
+U0353,Neha Agarwal,24,Female,PC,Dota 2|Free Fire MAX|WWE 2K24|Brawl Stars|CS2,Battle Royale|Action|Strategy,Casual,Anytime
+U0354,Devika Joshi,30,Female,Mobile,Rummy Circle|League of Legends: Wild Rift|WinZO|8 Ball Pool,Card Games|Strategy|Casual,Competitive,Night
+U0355,Kush Shah,19,Male,Mobile,PUBG Mobile|Teen Patti Gold|Yu-Gi-Oh! Master Duel Mobile,Card Games|Battle Royale|Strategy,Casual,Evening
+U0356,Kritika Mukherjee,18,Female,Mobile,BGMI|World Cricket Championship 3|Genshin Impact Mobile|Arena of Valor,RPG|Battle Royale|Simulation,Casual,Evening
+U0357,Kush Rajput,20,Male,Mobile,PUBG Mobile|Real Cricket 22|FIFA Mobile|WinZO,Battle Royale|Simulation|Sports,Competitive,Night
+U0358,Piyush Deshmukh,22,Male,Mobile,MPL Games|World Cricket Championship 3|8 Ball Pool,Sports|Casual|Simulation,Casual,Night
+U0359,Sonal Shukla,30,Female,Mobile,Free Fire MAX|Real Cricket 22|Carrom Pool,Battle Royale|Simulation|Sports,Both,Evening
+U0360,Divya Srivastava,26,Female,Mobile,Pokemon Unite|Free Fire MAX|Hill Climb Racing|Rummy Circle|Real Cricket 22,Card Games|Battle Royale|Simulation,Casual,Morning
+U0361,Mihir Rao,26,Male,Mobile,Garena Contra Returns|Clash of Clans|MPL Games,Action|Strategy|Casual,Both,Anytime
+U0362,Savitha Reddy,18,Female,PC,Valorant|BGMI|God of War,Battle Royale|Action|Strategy,Casual,Morning
+U0363,Esha Reddy,25,Female,Mobile,Temple Run 2|Road Fighter|Carrom Pool,Racing|Casual|Sports,Competitive,Evening
+U0364,Sumit Chandra,23,Male,Mobile,Free Fire MAX|PUBG Mobile,Battle Royale|FPS,Both,Afternoon
+U0365,Lalitha Menon,26,Female,Mobile,Carrom Pool|Stick Cricket Super League|Free Fire|Honkai Star Rail|Ludo King,RPG|Battle Royale|Strategy,Casual,Night
+U0366,Revathi Ghosh,18,Female,Mobile,BGMI|NBA 2K Mobile|Arena of Valor|Brawl Stars,Battle Royale|Simulation|Action,Casual,Night
+U0367,Dhruv Desai,20,Male,PC,League of Legends|Cyberpunk 2077|Clash of Clans|Free Fire MAX,RPG|Battle Royale|Action,Casual,Afternoon
+U0368,Kavya Joshi,19,Female,PlayStation,Clash of Clans|Call of Duty Mobile|GTA V|WWE 2K24|Brawl Stars,Battle Royale|Action|Strategy,Casual,Afternoon
+U0369,Anika Dixit,21,Female,Mobile,Clash of Clans|Hill Climb Racing|PUBG Mobile,Battle Royale|Strategy|Casual,Casual,Evening
+U0370,Amrita Sen,23,Female,Mobile,Real Cricket 22|Garena Contra Returns|Ludo King|BGMI,Battle Royale|Simulation|Action,Casual,Afternoon
+U0371,Avni Saxena,30,Female,Mobile,Honkai Star Rail|Genshin Impact Mobile|League of Legends: Wild Rift|Dream11,RPG|Action|Strategy,Casual,Night
+U0372,Parth Nair,29,Male,PlayStation,Call of Duty Mobile|League of Legends|FIFA 25,Battle Royale|Simulation|Strategy,Both,Morning
+U0373,Vikram Patel,26,Male,PC,PUBG Mobile|League of Legends|CS2|Call of Duty Mobile|FIFA 25,Battle Royale|Simulation|Strategy,Both,Night
+U0374,Pratik Kulkarni,24,Male,Mobile,Mobile Legends|Genshin Impact Mobile|Yu-Gi-Oh! Master Duel Mobile|Clash Royale,Card Games|RPG|Action,Casual,Morning
+U0375,Hitesh Banerjee,27,Male,PC,BGMI|Apex Legends|PUBG Mobile,Battle Royale|FPS,Competitive,Anytime
+U0376,Isha Kumar,28,Female,Mobile,WinZO|PUBG Mobile|Temple Run 2|8 Ball Pool|Free Fire MAX,Battle Royale|Action|Sports,Casual,Anytime
+U0377,Chahat Gowda,23,Female,PlayStation,CS2|Clash of Clans,Strategy|Casual|FPS,Casual,Anytime
+U0378,Geeta Pandey,26,Female,Mobile,Carrom Pool|8 Ball Pool|PUBG Mobile,Sports|Casual|FPS,Casual,Anytime
+U0379,Rajat Deshmukh,20,Male,Mobile,Pokemon Unite|Honkai Star Rail|BGMI|Yu-Gi-Oh! Master Duel Mobile,Card Games|RPG|Battle Royale,Competitive,Afternoon
+U0380,Sonam Sen,29,Female,Mobile,Brawl Stars|WinZO|Road Fighter|World Cricket Championship 3,Simulation|Action|Sports,Casual,Night
+U0381,Ritika Mukherjee,27,Female,PC,Valorant|Dota 2|CS2|Fortnite|PUBG Mobile,Battle Royale|Action|Strategy,Casual,Night
+U0382,Krish Ghosh,29,Male,Mobile,Teen Patti Gold|FIFA Mobile|Stick Cricket Super League|Free Fire,Card Games|Battle Royale|Simulation,Competitive,Night
+U0383,Abhishek Shetty,30,Male,Mobile,Honkai Star Rail|Ludo King|WinZO|Road Fighter|Arena of Valor,RPG|Strategy|Casual,Competitive,Night
+U0384,Tanya Trivedi,24,Female,Xbox,Dota 2|Spider-Man PC,Strategy|Adventure|MOBA,Casual,Morning
+U0385,Aditi Iyer,30,Female,Mobile,eFootball Mobile|Yu-Gi-Oh! Master Duel Mobile,Card Games|Sports|Strategy,Casual,Evening
+U0386,Advait Sharma,30,Male,PlayStation,Free Fire MAX|Cyberpunk 2077|Elden Ring|CS2|Dota 2,RPG|Battle Royale|Action,Competitive,Night
+U0387,Jyoti Iyer,27,Female,Mobile,Honkai Star Rail|WinZO|Clash Royale|Hill Climb Racing,Card Games|RPG|Strategy,Both,Evening
+U0388,Arjun Sharma,24,Male,Mobile,FIFA Mobile|BGMI,Sports|FPS|Simulation,Competitive,Night
+U0389,Varsha Saxena,28,Female,Mobile,Temple Run 2|eFootball Mobile|Garena Contra Returns|8 Ball Pool|Candy Crush Saga,Simulation|Action|Sports,Casual,Afternoon
+U0390,Nandini Srivastava,28,Female,Mobile,Temple Run 2|Asphalt 9|Dream11|Stick Cricket Super League|Mobile Legends,Action|Strategy|Casual,Casual,Afternoon
+U0391,Deepak Jain,28,Male,Mobile,NBA 2K Mobile|Call of Duty Mobile|Ludo King|Carrom Pool,Battle Royale|Simulation|Strategy,Casual,Morning
+U0392,Manas More,29,Male,Mobile,WinZO|8 Ball Pool|Clash Royale|Free Fire MAX,Card Games|Battle Royale|Strategy,Casual,Anytime
+U0393,Deepa Mishra,18,Female,Xbox,Clash of Clans|Free Fire|BGMI,Strategy|Casual|FPS,Casual,Night
+U0394,Deepika Gupta,18,Female,PC,Clash Royale|Apex Legends|Brawl Stars,Card Games|Battle Royale|Action,Casual,Night
+U0395,Aman Dubey,26,Male,PC,Brawl Stars|Spider-Man PC|PUBG Mobile|League of Legends,Battle Royale|Action|Strategy,Casual,Night
+U0396,Shreyas Yadav,21,Male,PC,Elden Ring|FIFA 25|Dota 2|Clash Royale,Card Games|RPG|Simulation,Competitive,Evening
+U0397,Neeraj Chatterjee,26,Male,Mobile,NBA 2K Mobile|PUBG Mobile,Sports|FPS|Simulation,Casual,Anytime
+U0398,Bhavya Sinha,28,Female,PC,PUBG Mobile|Free Fire|Dota 2|God of War|BGMI,Battle Royale|Action|Strategy,Competitive,Night
+U0399,Surya Naidu,26,Male,Mobile,WinZO|Real Cricket 22|Road Fighter|Dream11|FIFA Mobile,Simulation|Strategy|Sports,Casual,Night
+U0400,Arnav Menon,23,Male,Mobile,PUBG Mobile|NBA 2K Mobile|Teen Patti Gold|Honkai Star Rail,Card Games|RPG|Battle Royale,Casual,Anytime
+U0401,Kavya Shah,21,Female,Mobile,Subway Surfers|Temple Run 2|MPL Games,Racing|Casual|Sports,Casual,Afternoon
+U0402,Aditi Pillai,30,Female,Mobile,Pokemon Unite|BGMI,Casual|FPS|Battle Royale,Both,Anytime
+U0403,Ruchika Rathore,24,Female,Mobile,Pokemon Unite|Teen Patti Gold|Yu-Gi-Oh! Master Duel Mobile|Candy Crush Saga,Card Games|Simulation|Strategy,Casual,Night
+U0404,Shubham Pawar,24,Male,Mobile,Yu-Gi-Oh! Master Duel Mobile|Dream11,Card Games|Sports|Strategy,Both,Night
+U0405,Pallavi Kamath,24,Female,Mobile,BGMI|MPL Games,Sports|Battle Royale|FPS,Competitive,Evening
+U0406,Kavya Pandey,21,Female,Mobile,World Cricket Championship 3|8 Ball Pool|Teen Patti Gold|Pokemon Unite|Garena Contra Returns,Card Games|Simulation|Action,Competitive,Night
+U0407,Surya Dubey,30,Female,Mobile,WinZO|Clash of Clans|Candy Crush Saga,Sports|Casual|Strategy,Casual,Evening
+U0408,Ojasvi Sen,25,Female,Mobile,Teen Patti Gold|Road Fighter,Card Games|Casual|Racing,Casual,Anytime
+U0409,Mamta Krishnan,29,Female,Mobile,Stick Cricket Super League|Clash of Clans,Strategy|Sports|Casual,Casual,Afternoon
+U0410,Madhuri Iyer,18,Female,Mobile,Temple Run 2|8 Ball Pool|NBA 2K Mobile|Dream11,Simulation|Action|Strategy,Competitive,Evening
+U0411,Krish Chatterjee,25,Male,Switch,Dream11|Real Cricket 22|Dota 2|Yu-Gi-Oh! Master Duel Mobile,Card Games|Simulation|Strategy,Both,Evening
+U0412,Vishal Yadav,28,Male,Mobile,Ludo King|World Cricket Championship 3|Road Fighter,Simulation|Strategy|Casual,Competitive,Evening
+U0413,Harsh Mukherjee,22,Male,Mobile,Real Cricket 22|Hill Climb Racing|Candy Crush Saga|Stick Cricket Super League,Racing|Sports|Simulation,Both,Night
+U0414,Hina Shetty,28,Female,Mobile,Free Fire|Mobile Legends|Subway Surfers,Battle Royale|Action|Casual,Casual,Night
+U0415,Dev Banerjee,26,Male,Mobile,PUBG Mobile|Honkai Star Rail,Strategy|Battle Royale|FPS,Casual,Night
+U0416,Rajesh Pandey,21,Male,Mobile,Carrom Pool|Asphalt 9,Sports|Casual|Racing,Casual,Evening
+U0417,Akash Banerjee,22,Male,Mobile,Real Cricket 22|Honkai Star Rail|Genshin Impact Mobile|eFootball Mobile,RPG|Simulation|Action,Competitive,Afternoon
+U0418,Vihan Kamath,25,Male,PC,Free Fire MAX|Clash of Clans|Call of Duty Mobile|WWE 2K24|Elden Ring,RPG|Battle Royale|Action,Competitive,Night
+U0419,Vrinda Saxena,30,Female,Mobile,Asphalt 9|BGMI|FIFA Mobile,Battle Royale|Simulation|Action,Both,Evening
+U0420,Bhavya Verma,21,Female,PC,Free Fire|WWE 2K24|Valorant|Cyberpunk 2077|Clash Royale,Card Games|RPG|Battle Royale,Both,Night
+U0421,Himanshu More,19,Male,Mobile,Carrom Pool|WinZO|Temple Run 2,Sports|Casual|Action,Competitive,Afternoon
+U0422,Aarohi Tiwari,22,Female,Mobile,Teen Patti Gold|Mobile Legends,Card Games|Casual|MOBA,Casual,Evening
+U0423,Diya Krishnan,26,Female,Mobile,Arena of Valor|Call of Duty Mobile,Strategy|Battle Royale|FPS,Casual,Anytime
+U0424,Diya Bose,20,Female,PC,Dota 2|GTA V,Strategy|Adventure|MOBA,Casual,Afternoon
+U0425,Vrinda Rajan,20,Female,Switch,FIFA 25|Free Fire MAX|World Cricket Championship 3|Clash Royale|Spider-Man PC,Card Games|Battle Royale|Simulation,Casual,Night
+U0426,Harshit Gowda,24,Male,Mobile,Carrom Pool|BGMI|Brawl Stars|Subway Surfers,Battle Royale|Action|Sports,Both,Evening
+U0427,Yash Kamath,21,Male,PC,Free Fire MAX|Brawl Stars,Battle Royale|FPS|MOBA,Competitive,Night
+U0428,Siya Mukherjee,19,Female,PC,Call of Duty Mobile|Free Fire MAX,Battle Royale|FPS,Casual,Night
+U0429,Pratik Joshi,24,Male,PlayStation,Minecraft|Dota 2|Clash of Clans,Simulation|Strategy|Casual,Casual,Afternoon
+U0430,Indira Chandra,29,Female,Mobile,BGMI|Free Fire MAX|Honkai Star Rail,Strategy|Battle Royale|FPS,Competitive,Evening
+U0431,Lokesh Mukherjee,30,Male,Mobile,Call of Duty Mobile|Dream11|Arena of Valor|eFootball Mobile,Battle Royale|Simulation|Strategy,Casual,Evening
+U0432,Esha Shukla,22,Female,PC,League of Legends|Valorant|Spider-Man PC|Elden Ring|Fortnite,RPG|Battle Royale|Action,Both,Evening
+U0433,Esha Chauhan,29,Female,Mobile,Rummy Circle|Teen Patti Gold|eFootball Mobile|Dream11|Real Cricket 22,Card Games|Simulation|Strategy,Competitive,Anytime
+U0434,Kaustubh Chauhan,24,Male,PC,BGMI|Valorant|Clash of Clans|Free Fire MAX,Strategy|Battle Royale|FPS,Competitive,Anytime
+U0435,Lata Malhotra,21,Female,Mobile,eFootball Mobile|Carrom Pool,Sports|Simulation|Casual,Competitive,Evening
+U0436,Rudra Yadav,18,Male,Mobile,Brawl Stars|Clash of Clans|FIFA Mobile|PUBG Mobile,Battle Royale|Simulation|Action,Both,Afternoon
+U0437,Yash Pillai,28,Male,Mobile,Free Fire MAX|Carrom Pool,Sports|Battle Royale|FPS,Competitive,Night
+U0438,Shreya Saxena,28,Female,Mobile,BGMI|MPL Games,Sports|Battle Royale|FPS,Competitive,Anytime
+U0439,Atharv Mishra,29,Male,Mobile,8 Ball Pool|Call of Duty Mobile|Candy Crush Saga|FIFA Mobile|Free Fire MAX,Battle Royale|Simulation|Sports,Casual,Evening
+U0440,Rajat Iyer,21,Male,Mobile,eFootball Mobile|Carrom Pool|Rummy Circle,Card Games|Sports|Simulation,Competitive,Afternoon
+U0441,Sarthak Sawant,20,Male,PC,Brawl Stars|BGMI|Cyberpunk 2077|Minecraft,RPG|Battle Royale|Simulation,Both,Night
+U0442,Uma Mukherjee,30,Female,Mobile,Dream11|Real Cricket 22|NBA 2K Mobile|8 Ball Pool|Road Fighter,Simulation|Strategy|Sports,Competitive,Night
+U0443,Lalitha Malhotra,23,Female,Mobile,Carrom Pool|NBA 2K Mobile|Temple Run 2,Sports|Casual|Simulation,Both,Evening
+U0444,Priya Gupta,22,Female,Switch,FIFA Mobile|Mobile Legends,Sports|Simulation|MOBA,Casual,Anytime
+U0445,Lakshay Singh,19,Male,PC,Call of Duty Mobile|Free Fire MAX|PUBG Mobile|Fortnite,Battle Royale|FPS|Action,Casual,Evening
+U0446,Neeraj Saxena,19,Male,PlayStation,Dota 2|FIFA 25|WWE 2K24,Simulation|Action|Strategy,Competitive,Night
+U0447,Ansh Reddy,28,Male,PC,Apex Legends|Free Fire|PUBG Mobile|Minecraft|Clash Royale,Card Games|Battle Royale|Simulation,Casual,Night
+U0448,Komal Mishra,29,Female,Xbox,Elden Ring|Cyberpunk 2077|Minecraft|Dota 2,RPG|Simulation|Action,Competitive,Night
+U0449,Ishan Nayak,27,Male,Mobile,Real Cricket 22|eFootball Mobile,Sports|Simulation,Casual,Night
+U0450,Vivek Joshi,21,Male,PC,BGMI|Clash Royale|PUBG Mobile|Free Fire MAX|GTA V,Card Games|Battle Royale|Action,Competitive,Night
+U0451,Akash Trivedi,22,Male,Mobile,NBA 2K Mobile|Stick Cricket Super League,Sports|Simulation|Casual,Casual,Night
+U0452,Pranit Das,26,Male,Mobile,Pokemon Unite|Stick Cricket Super League|Rummy Circle,Sports|Casual|MOBA,Competitive,Night
+U0453,Lokesh Reddy,23,Male,Mobile,Real Cricket 22|Clash Royale|Brawl Stars|Road Fighter|Garena Contra Returns,Card Games|Simulation|Action,Casual,Evening
+U0454,Shaurya Thakur,21,Male,Mobile,League of Legends: Wild Rift|Arena of Valor|Free Fire MAX|WinZO,Battle Royale|Strategy|Casual,Competitive,Afternoon
+U0455,Suresh Joshi,29,Male,Mobile,Hill Climb Racing|BGMI|World Cricket Championship 3,Battle Royale|Simulation|Sports,Both,Evening
+U0456,Sneha Bhatt,30,Female,Mobile,MPL Games|eFootball Mobile|FIFA Mobile,Sports|Casual|Simulation,Casual,Evening
+U0457,Rohan Singh,18,Male,Mobile,Temple Run 2|Ludo King,Strategy|Casual|Action,Casual,Night
+U0458,Shreya Bhat,28,Female,PC,GTA V|Spider-Man PC,Adventure|Action,Casual,Anytime
+U0459,Neha Singh,25,Female,Mobile,WinZO|Carrom Pool|Yu-Gi-Oh! Master Duel Mobile|Clash of Clans|Real Cricket 22,Card Games|Simulation|Strategy,Both,Night
+U0460,Sarthak Singh,18,Male,Mobile,World Cricket Championship 3|Pokemon Unite|Stick Cricket Super League|Ludo King,Simulation|Strategy|Sports,Casual,Evening
+U0461,Bhavna Dubey,21,Female,PC,Spider-Man PC|Valorant|Call of Duty Mobile|FIFA 25,Battle Royale|Simulation|Action,Casual,Anytime
+U0462,Aman Nayak,24,Male,Mobile,Road Fighter|Subway Surfers|Arena of Valor,Strategy|Racing|MOBA,Both,Anytime
+U0463,Heena Bose,22,Female,Mobile,eFootball Mobile|Rummy Circle|Mobile Legends,Card Games|Simulation|Action,Competitive,Anytime
+U0464,Ritesh Ghosh,26,Male,PC,God of War|GTA V|Call of Duty Mobile,Battle Royale|FPS|Adventure,Both,Afternoon
+U0465,Ishita Patel,20,Female,PC,Cyberpunk 2077|WWE 2K24|BGMI|Clash of Clans|FIFA 25,RPG|Battle Royale|Simulation,Both,Afternoon
+U0466,Rahul Tiwari,19,Male,Mobile,WinZO|Free Fire|Dream11,Battle Royale|Strategy|Sports,Competitive,Evening
+U0467,Deepa Srivastava,21,Female,Mobile,Pokemon Unite|Honkai Star Rail|Mobile Legends|Ludo King|Rummy Circle,Card Games|RPG|Action,Casual,Night
+U0468,Shivam Jadhav,25,Male,Mobile,MPL Games|PUBG Mobile|Teen Patti Gold,Card Games|Battle Royale|Sports,Both,Evening
+U0469,Poornima Khanna,24,Female,Mobile,Carrom Pool|Real Cricket 22,Sports|Casual|Simulation,Competitive,Night
+U0470,Rajat Pillai,26,Male,Mobile,Subway Surfers|FIFA Mobile,Racing|Casual|Sports,Casual,Night
+U0471,Keerthi Joshi,24,Female,Mobile,Stick Cricket Super League|Asphalt 9|Hill Climb Racing|Genshin Impact Mobile|Ludo King,RPG|Action|Strategy,Casual,Anytime
+U0472,Atharv Shetty,20,Male,Mobile,Teen Patti Gold|eFootball Mobile,Card Games|Casual|Sports,Casual,Evening
+U0473,Kunal Kamath,23,Male,Mobile,Genshin Impact Mobile|Clash Royale|Temple Run 2,Card Games|RPG|Action,Competitive,Anytime
+U0474,Veer Chandra,27,Male,Mobile,8 Ball Pool|Clash Royale|FIFA Mobile|Carrom Pool|Yu-Gi-Oh! Master Duel Mobile,Card Games|Simulation|Strategy,Both,Evening
+U0475,Meera Banerjee,24,Female,PlayStation,Apex Legends|Fortnite|CS2,Strategy|Battle Royale|FPS,Casual,Night
+U0476,Aarohi Roy,18,Female,Mobile,Rummy Circle|BGMI|Temple Run 2,Card Games|Battle Royale|Action,Competitive,Anytime
+U0477,Advait Rajan,21,Male,Mobile,Genshin Impact Mobile|Road Fighter|League of Legends: Wild Rift|Clash Royale|BGMI,Card Games|RPG|Battle Royale,Both,Evening
+U0478,Siddharth Roy,19,Male,Mobile,Free Fire MAX|Arena of Valor|Asphalt 9|World Cricket Championship 3,Battle Royale|Simulation|Action,Casual,Evening
+U0479,Rishi Yadav,19,Male,Mobile,Genshin Impact Mobile|8 Ball Pool|Free Fire MAX,RPG|Battle Royale|Action,Both,Evening
+U0480,Nisha Pawar,20,Female,PlayStation,WWE 2K24|Free Fire,Sports|FPS|Battle Royale,Casual,Anytime
+U0481,Akshaya Jadhav,19,Female,Mobile,Call of Duty Mobile|Clash of Clans|FIFA Mobile,Battle Royale|Simulation|Strategy,Competitive,Night
+U0482,Sunita Rathore,27,Female,Mobile,Mobile Legends|Pokemon Unite|FIFA Mobile|Teen Patti Gold,Card Games|Simulation|Action,Casual,Evening
+U0483,Arjun Chandra,24,Male,Mobile,MPL Games|Road Fighter,Sports|Casual|Racing,Casual,Evening
+U0484,Rohit Mehta,23,Male,PC,GTA V|WWE 2K24|Free Fire MAX|Call of Duty Mobile,Battle Royale|Action|Sports,Both,Afternoon
+U0485,Pari Kulkarni,23,Female,PC,Apex Legends|League of Legends,Strategy|Battle Royale|FPS,Both,Anytime
+U0486,Madhuri Gupta,25,Female,PC,Fortnite|Clash of Clans|BGMI|Call of Duty Mobile|God of War,Battle Royale|Action|Strategy,Both,Evening
+U0487,Rajat Rajput,27,Male,Mobile,NBA 2K Mobile|eFootball Mobile|Free Fire|MPL Games,Battle Royale|Simulation|Sports,Competitive,Night
+U0488,Nisha Sen,28,Female,Mobile,World Cricket Championship 3|Carrom Pool,Sports|Simulation|Casual,Competitive,Afternoon
+U0489,Kavya Naidu,19,Female,PlayStation,God of War|CS2|FIFA 25|Cyberpunk 2077,RPG|Simulation|Action,Competitive,Afternoon
+U0490,Trisha Jain,30,Female,Mobile,Brawl Stars|8 Ball Pool|Free Fire MAX,Battle Royale|Action|Sports,Casual,Morning
+U0491,Girish Murthy,29,Male,PlayStation,League of Legends|God of War|Free Fire,Battle Royale|Action|Strategy,Both,Evening
+U0492,Ishita Iyer,24,Female,PC,League of Legends|CS2|BGMI,Strategy|Battle Royale|FPS,Competitive,Night
+U0493,Dhruv Kumar,18,Male,PC,God of War|BGMI,Battle Royale|FPS|Adventure,Casual,Night
+U0494,Sneha Thakur,22,Female,PC,God of War|League of Legends|WWE 2K24,Action|Strategy|Sports,Competitive,Night
+U0495,Shivam Sen,26,Male,Mobile,BGMI|NBA 2K Mobile,Sports|Battle Royale|FPS,Casual,Night
+U0496,Diya Ghosh,22,Female,Xbox,PUBG Mobile|Dota 2|Apex Legends|GTA V,Battle Royale|Action|Strategy,Competitive,Evening
+U0497,Shreya Bose,18,Female,Mobile,Clash of Clans|Carrom Pool,Strategy|Casual|Sports,Casual,Evening
+U0498,Mythili Dixit,27,Female,Mobile,eFootball Mobile|Clash Royale|Genshin Impact Mobile,Card Games|RPG|Simulation,Casual,Night
+U0499,Ankita Kamath,24,Female,Mobile,Honkai Star Rail|WinZO|Arena of Valor|Temple Run 2|8 Ball Pool,RPG|Action|Strategy,Casual,Anytime
+U0500,Mamta Solanki,19,Female,Mobile,PUBG Mobile|Honkai Star Rail,Strategy|Battle Royale|FPS,Casual,Evening

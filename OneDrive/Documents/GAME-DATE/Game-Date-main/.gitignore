@@ -1,0 +1,10 @@
+# Backend
+backend/.env
+backend/__pycache__/
+backend/ml/model.pkl
+backend/venv/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env

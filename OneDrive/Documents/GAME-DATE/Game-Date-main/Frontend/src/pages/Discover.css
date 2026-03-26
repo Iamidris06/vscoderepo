@@ -1,0 +1,103 @@
+.discover {
+  max-width: 1152px;
+  margin:    0 auto;
+  padding:   96px 16px 48px;
+}
+
+.discover__header  { margin-bottom: 32px; }
+
+.discover__title {
+  font-family:    var(--font-display);
+  font-size:      1.9rem;
+  font-weight:    700;
+  color:          white;
+  margin-bottom:  4px;
+}
+
+.discover__subtitle { font-size: 0.85rem; color: var(--color-dim); }
+
+/* Filters */
+.filters       { display: flex; flex-direction: column; gap: 16px; margin-bottom: 32px; }
+
+.filter-group__label {
+  font-size:      0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color:          var(--color-dim);
+  margin-bottom:  8px;
+}
+
+.filter-group__pills { display: flex; flex-wrap: wrap; gap: 8px; }
+
+.pill {
+  font-size:        0.82rem;
+  padding:          5px 14px;
+  border-radius:    var(--radius-full);
+  border:           1px solid var(--color-border);
+  background:       transparent;
+  color:            var(--color-muted);
+  transition:       all 0.2s ease;
+}
+
+.pill:hover              { border-color: var(--color-purple); color: var(--color-text); }
+.pill--active-purple     { background-color: var(--color-purple); border-color: var(--color-purple); color: white; }
+.pill--active-cyan       { background-color: var(--color-cyan);   border-color: var(--color-cyan);   color: var(--color-bg); font-weight: 600; }
+
+/* Grid */
+.discover__grid {
+  display:               grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap:                   20px;
+}
+
+/* Loading / Empty state */
+.discover__status {
+  text-align:   center;
+  color:        var(--color-dim);
+  padding:      80px 0;
+  font-size:    0.95rem;
+}
+.discover__modetoggle {
+  display:    flex;
+  gap:        8px;
+  margin-top: 12px;
+}
+
+.modetab {
+  font-size:     0.82rem;
+  padding:       6px 16px;
+  border-radius: var(--radius-full);
+  border:        1px solid var(--color-border);
+  background:    transparent;
+  color:         var(--color-muted);
+  transition:    all 0.2s ease;
+}
+
+.modetab:hover      { border-color: var(--color-purple); color: var(--color-text); }
+.modetab--active    { background: var(--color-purple); border-color: var(--color-purple); color: white; }
+
+.discover__prompt {
+  margin-top:    10px;
+  font-size:     0.85rem;
+  color:         var(--color-muted);
+  padding:       10px 16px;
+  background:    var(--color-card);
+  border:        1px solid var(--color-border);
+  border-radius: var(--radius-sm);
+}
+
+.discover__prompt a { color: var(--color-cyan); text-decoration: underline; }
+
+.discover__spinner {
+  display:       inline-block;
+  width:         16px;
+  height:        16px;
+  border:        2px solid var(--color-border);
+  border-top:    2px solid var(--color-purple);
+  border-radius: 50%;
+  animation:     spin 0.7s linear infinite;
+  margin-right:  8px;
+  vertical-align: middle;
+}
+
+@keyframes spin { to { transform: rotate(360deg); } }
